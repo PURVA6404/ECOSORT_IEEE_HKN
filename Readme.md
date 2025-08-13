@@ -46,6 +46,7 @@ EcoSort addresses the critical challenges associated with manual sorting, provid
 - **MobileNetV3**
 - **CNN**
 - **EfficientNet**
+- **DenseNet**
 
 ### Evaluation Metrics
 
@@ -64,6 +65,7 @@ The following table shows the accuracy achieved by each model:
 
 | Model             | Accuracy (%) |
 |-------------------|--------------|
+| DensetNet                         | 96.84 |
 | ResNet50 (with Transfer Learning) | 92.51% |
 | VGG19 (with Transfer Learning)    | 90.73% |
 | InceptionV3                        | 88.98% |
